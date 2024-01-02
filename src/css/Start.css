@@ -1,0 +1,6 @@
+.common-input-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem; /* You can adjust the margin as needed */
+  }
